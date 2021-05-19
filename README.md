@@ -1,2 +1,2 @@
 # Calculator
-A simple Calculator with basic functions like addition, subtraction, multiplication, division and history of calculations.
+A simple Calculator coded in python performing the basic operations like addition, subtraction, multiplication and division along with additional feature of history button that keeps the track of the calculations.
