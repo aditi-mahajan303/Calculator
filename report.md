@@ -1,0 +1,1 @@
+It's a simple Calculator project coded in python using the Pycharm editor which can perform the basic operations like addition, subtraction, multiplication and division along with the additional feature of history button which keeps the track of previous calculations and it also has the clear and back buttons which makes the task easier.
